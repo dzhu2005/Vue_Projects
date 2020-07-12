@@ -1,17 +1,10 @@
 <template>
-  <div>Home
-
-
-
+  <div>
+    Home
+    sandbox
   </div>
 </template>
 
 <script>
-
-
-
-export default {
-
-
-}
+export default {};
 </script>
